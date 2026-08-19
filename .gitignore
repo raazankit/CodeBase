@@ -1,0 +1,10 @@
+# Ignore macOS compiled C++ binaries and debugging symbols
+*.out
+*.o
+*.dSYM/
+
+# Ignore CPH extension metadata and test cases
+.cph/
+
+# Ignore macOS system files
+.DS_Store

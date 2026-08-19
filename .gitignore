@@ -1,4 +1,5 @@
 # Ignore macOS compiled C++ binaries and debugging symbols
+*.bin
 *.out
 *.o
 *.dSYM/
